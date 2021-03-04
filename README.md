@@ -8,7 +8,9 @@
 > Lo básico
 * Página HTML
 * ¡Hola Mundo!
-* CSS Básico
+* Conceptos básicos HTML
+* Etiquetas básicas
+* CSS básico
 
 > JavaScript
 * Ejecutar JavaScript en página HTML
